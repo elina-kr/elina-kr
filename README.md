@@ -18,4 +18,4 @@ Python | Pandas | NumPy | Seaborn | Pingouin | Scipy | SQL | Tableau | Dashboard
 [<img width="96" height="96" src="https://img.icons8.com/emoji/96/e-mail.png" alt="e-mail"/>](mailto:elina8kr@gmail.com)
 <a href= "https://www.linkedin.com/in/elina-krs"><img src="https://img.icons8.com/fluency/96/linkedin.png"/></a>
 <a href= "https://public.tableau.com/app/profile/elina.krs/vizzes"><img src="https://img.icons8.com/color/96/tableau-software.png"/></a>
-<a href= "https://t.me/elina_kr"><img src="https://img.icons8.com/?size=100&id=7xE9VDBMDtZ0&format=png&color=000000"/></a>
+<a href= "https://t.me/elina_kr"><img src="https://icons8.com/icon/yEmPT1iidhE0/telegram"/></a>
