@@ -1,7 +1,7 @@
 
 ## About Me
 
-I'm a data analyst with 3 years in analytics and 1 year focused on data analysis. During my career, I've been deeply involved in working with data, creating metrics, and developing SQL queries for building insightful dashboards. My experience has highlighted the pivotal role of data in driving informed business decisions.
+I am a Data Analyst with experience in the gaming industry and booking platforms. I have actively worked with data, conducted A/B testing, analyzed gaming sessions and user behavior, optimized monetization, and developed segmentation systems.
 
 I've dedicated myself to mastering Python, Tableau, SQL, Redash, and statistics to transition seamlessly into a data analytics role. You can explore my Tableau portfolio showcasing various data visualizations and dashboards [here](https://public.tableau.com/app/profile/elina.krs/vizzes).
 
