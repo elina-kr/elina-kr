@@ -16,6 +16,5 @@ Python | Pandas | NumPy | Seaborn | Pingouin | Scipy | SQL | BigQuery | Tableau 
 ## Reach out & connect
 
 [<img width="96" height="96" src="https://img.icons8.com/emoji/96/e-mail.png" alt="e-mail"/>](mailto:elina8kr@gmail.com)
-
 <a href= "https://public.tableau.com/app/profile/elina.krs/vizzes"><img src="https://img.icons8.com/color/96/tableau-software.png"/></a>
 <a href= "https://t.me/elina_kr"><img src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000"/></a>
